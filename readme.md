@@ -11,5 +11,6 @@ The base UI looks like then (WinForms app):
 - HtmlAgilityPack
 - Try to use Selenium, but changed my mind
 
+---
 
 Creared in 2020 year.
